@@ -1039,7 +1039,9 @@ line-height: normal;
     height: 320px;
     }
 
-    
+    .show {
+        left: 0;
+    }
 
 
 
