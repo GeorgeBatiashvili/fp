@@ -87,7 +87,7 @@ header {
     line-height: 19px;
 }
 
-..header_common_button:hover {
+.header_common_button:hover {
     border: 5px solid #6ed58d;
     border-radius: 7px;
 }
@@ -99,7 +99,7 @@ header {
 /* This is background section of home page */
 
 .background_section {
-    background-image: url(/assets/cover_image.jpg);
+    background-image: url(assets/cover_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 640px;
@@ -140,7 +140,7 @@ header {
     font-family: Inter, sans-serif;
     font-weight: 400;
     line-height: 24px;
-    word-wrap: break-word
+    word-wrap: break-word;
     padding: 12px 45px;
     border: 2px solid #D5906E;
     border-radius: 10px;
@@ -325,7 +325,7 @@ header {
 /* This is section fifth of home page */
 
 .section5 {
-    background-image: url(/assets/section_5_cover.jpg);
+    background-image: url(assets/section_5_cover.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -631,7 +631,7 @@ font-weight: 300;
 /* This is background section of Artworks */
 
 .artwork_background {
-    background-image: url(/assets/artworks_cover.jpg);
+    background-image: url(assets/artworks_cover.jpg);
     height: 560px;
     background-position: center;
     background-size: cover;
@@ -863,7 +863,7 @@ font-weight: 300;
     /* This is background section of Contact pages */
 
     .contact_background {
-        background-image: url(/assets/contact_cover.jpg);
+        background-image: url(assets/contact_cover.jpg);
         background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
