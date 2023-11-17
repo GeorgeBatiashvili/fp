@@ -99,7 +99,7 @@ header {
 /* This is background section of home page */
 
 .background_section {
-    background-image: url(/assets/home_cover1.png);
+    background-image: url(../assets/home_cover1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 640px;
@@ -325,7 +325,7 @@ header {
 /* This is section fifth of home page */
 
 .section5 {
-    background-image: url(/assets/home_cover1.png);
+    background-image: url(../assets/home_cover1.png);
     display: flex;
     justify-content: center;
     align-items: center;
