@@ -1,0 +1,259 @@
+@media (max-width: 1240px) {
+  /* This is section third of home page */
+
+  .section3 {
+    padding-inline: 32px;
+  }
+
+  .section3_part1 {
+    column-gap: 24px;
+  }
+
+  .section3_part2 {
+    column-gap: 24px;
+  }
+
+  .section3_picture1 {
+    width: 591px;
+    height: 332px;
+    object-fit: cover;
+  }
+
+  .section3_picture2 {
+    width: 345px;
+    height: 332px;
+    object-fit: cover;
+  }
+
+  .section3_picture3 {
+    width: 283.5px;
+    height: 260px;
+    object-fit: cover;
+  }
+
+  .section3_picture4 {
+    object-fit: cover;
+    width: 283.5px;
+    height: 260px;
+  }
+
+  .section3_picture5 {
+    width: 345px;
+    height: 260px;
+    object-fit: cover;
+  }
+
+  /* This is section fourth of home page */
+
+  .section4 {
+    padding-inline: 32px;
+  }
+
+
+
+  /* This is section sixth of home page */
+
+  .section6 {
+    padding-inline: 32px;
+  }
+
+  .section6_main {
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .info_for_resp {
+    justify-content: center;
+  }
+
+  .information1 {
+    width: calc(500 / 1024 * 100%);
+  }
+
+  .information2 {
+    width: calc(500 / 1024 * 100%);
+  }
+
+  .information3 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1219px) {
+  /* This is section one of Artworks */
+
+  .section1_Art {
+    margin-inline: 32px;
+  }
+
+  .artwork_shopping_head {
+    width: calc(960 / 1024 * 100%);
+  }
+
+  .list_poto {
+    width: 100%;
+    height: 240px;
+  }
+
+  .shop_list {
+    width: calc(468 / 1024 * 100%);
+  }
+
+  .shop_list_activ1 {
+    display: none;
+  }
+
+  /* This is about of Contact page */
+
+  .about {
+    padding-inline: 32px;
+  }
+
+  .contact_location {
+    column-gap: 71px;
+  }
+
+  iframe {
+    width: 714px;
+  }
+}
+
+@media(max-width:1130px) {
+
+header {
+  padding-inline: 32px;
+}
+
+}
+
+
+@media (max-width: 1020px) {
+
+  /* This is section third of home page */
+
+  .section3 {
+    padding-inline: 24px;
+  }
+
+  .section3_part1 {
+    flex-direction: column;
+        gap: 40px;
+        align-items: center;
+  }
+
+  .section3_picture4 {
+    display: none;
+  }
+
+  .section3_picture1 {
+    width: calc(680 / 744 * 100%);
+  }
+
+  .section3_picture2 {
+    width: calc(690 / 744 * 100%);
+  }
+
+  .section3_picture3 {
+    width: calc(336 / 744 * 100%);
+  }
+
+  .section3_picture5 {
+    width: calc(336 / 744 * 100%);
+  }
+
+  /* This is about of Contact page */
+  
+  .about {
+    flex-wrap: nowrap;
+  }
+
+  /* This is footer of home page */
+
+  footer {
+    padding: 32px;
+  }
+
+  
+}
+
+@media (max-width: 950px) {
+  /* This is background section of Contact page */
+
+  .contact_form {
+    top: 160px;
+    left: 32px;
+  }
+
+  /* This is about of Contact page */
+
+  .about_main {
+    padding: 0;
+  }
+
+  .contact_location {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact {
+    margin-left: 40px;
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 850px) {
+  /* header */
+
+  header {
+    padding-inline: 24px;
+  }
+
+  .header_common_nav {
+    padding: 25px 82px;
+        width: 240px;
+        position: fixed;
+        top: 98px;
+        left: -100%;
+        background-color: #B53B1B;
+        transition: .5s linear;
+  }
+
+  .header_common-ul {
+    flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+  }
+
+
+
+
+
+  .header_a_active {
+    color: #ffffff;
+  }
+
+  
+
+  .burger_image {
+    display: block;
+    color: #ffffff;
+  }
+
+  .show {
+    left: 0;
+  }
+
+  /* This is background section of home page */
+
+  .background {
+    margin-inline: 40px;
+  }
+
+  /* This is section two of home page */
+
+  .section_2 {
+    flex-direction: column;
+    gap: 40px;
+  }
+}

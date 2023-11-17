@@ -1,0 +1,322 @@
+@media(max-width:744px) {
+
+    /* header */
+
+    header {
+        padding: 9px 24px;
+    }
+
+.header_common_nav {
+    top: 93px;
+}
+
+.center_logoes {
+    display: flex;
+    flex-direction: column;
+}
+
+.center_logo1 {
+    width: 113px;
+        height: 39px;
+}
+
+.center_logo2 {
+    margin-top: -8px;
+        margin-left: 0;
+        width: 101px;
+        height: 39px;
+}
+
+/* This is section fourth of home page */
+
+.section4 {
+    padding-inline: 24px;
+}
+
+/* This is section sixth of home page */
+
+.info_for_resp {
+    flex-direction: column;
+        gap: 24px;
+}
+
+.information1 {
+    width: 100%;
+}
+
+.information2 {
+    width: 100%;
+}
+
+footer {
+    padding: 24px;
+}
+
+/* This is section one of Artworks */
+
+.section1_Art {
+    margin-inline: 24px;
+}
+
+.artwork_shopping_h {
+    font-size: 24px;
+}
+
+/* This is about of Contact page */
+
+.about {
+    padding-inline: 24px;
+}
+
+.about_main {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+}
+
+}
+
+
+@media(max-width:670px) {
+
+
+/* This is footer of home page */
+
+footer {
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer_h1 {
+    text-align: center;
+}
+
+.footer_p {
+    text-align: center;
+}
+
+.footer_p1 {
+    text-align: center;
+}
+
+.footer_logo {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.footer_rightside {
+    display: flex;
+        column-gap: 24px;
+}
+
+.Contact_us {
+    display: none;
+}
+
+/* This is background section of Artworks */
+
+.artwork_background_h {
+    font-size: 32px;
+}
+
+.artwork_form_input {
+    width: 235px;
+}
+
+
+
+
+}
+
+
+@media(max-width:585px) {
+    
+    /* This is background section of home page */
+
+    .background {
+        margin-inline: 20px;
+    }
+
+    .background_section_h {
+        font-size: 24px;
+    }
+
+    /* This is section third of home page */
+
+    .section3 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .section3_h {
+        margin-bottom: 20px;
+    }
+
+    .section3_part1 {
+        gap: 20px;
+    }
+
+    .section3_main {
+        gap: 20px;
+    }
+
+    
+
+    
+
+    .section3_picture5 {
+        display: none;
+    }
+
+    .section3_picture1 {
+        width: 100%;
+        height: 240px;
+    }
+
+    .section3_picture2 {
+        width: 100%;
+        height: 240px;
+    }
+
+    .section3_picture3 {
+        width: 100%;
+        height: 240px;
+    }
+
+    /* This is section one of Artworks */
+
+    .section1_Art {
+        margin-top: 64px;
+        margin-bottom: 64px;
+    }
+
+    .shopping_hole_list {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .shop_list {
+        width: 100%;
+    }
+
+    .shop_list_activ2 {
+        display: none;
+    }
+
+    .shop_list_activ3 {
+        display: none;
+    }
+
+    .shop_list_activ4 {
+        display: none;
+    }
+
+    /* This is background section of Contact page */
+
+    .contact_form {
+        left: 24px;
+    }
+
+}
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+    @media(max-width:500px) {
+
+        /* This is section fifth of home page */
+
+        .section5_h {
+            font-size: 24px;
+        text-align: center;
+        }
+
+        .section5_form {
+            width: 230px;
+        }
+
+        /* This is section one of Artworks */
+
+        .artwork_shopping_h {
+            font-size: 16px;
+        }
+
+        .artwork_shopping_button {
+            padding: 8px;
+        font-size: 16px;
+        }
+
+        .page_list {
+            width: 40px;
+        height: 40px;
+        }
+
+        .page_list_active {
+            width: 40px;
+        height: 40px;
+        }
+
+        /* This is background section of Contact page */
+
+        .contact_background {
+            height: 560px;
+        }
+
+        .contact_form {
+            width: calc(432 / 480 * 100%);
+            left: 16px;
+        top: 128px;
+        }
+
+        .contact_h {
+            font-size: 32px;
+        }
+
+        .fullname_emeil {
+            column-gap: 20px;
+        }
+
+        .full_name {
+            width: 100%;
+        }
+
+        .email {
+            width: 100%;
+        }
+
+        /* This is about of Contact page */
+
+        .about {
+            padding-top: 64px;
+        padding-bottom: 64px;
+        }
+
+        .about_contact_h1 {
+            margin: 0;
+        font-size: 32px;
+        }
+
+        .contact {
+            margin: 24px 30px;
+        }
+
+    }
+
+
+
+
+
+
+
+
+
+
+        

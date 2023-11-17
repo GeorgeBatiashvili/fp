@@ -1,0 +1,145 @@
+@media(max-width:430px) {
+
+    /* header */
+
+    header {
+        padding-inline: 16px;
+    }
+
+    .header_common_nav {
+        top: 91px;
+    }
+
+    .center_logo1 {
+        width: 87px;
+        height: 44px;
+    }
+
+    .center_logo2 {
+        margin-top: -20px;
+        width: 76px;
+        height: 44px;
+    }
+
+    .header_right {
+        column-gap: 8px;
+    }
+
+    .burger_image {
+        font-size: 20px;
+    }
+
+    .header_shopping {
+        font-size: 20px;
+    }
+
+    /* This is background section of home page */
+
+    .background_section {
+        height: 400px;
+    }
+
+    .background_section_h {
+        font-size: 20px;
+    }
+
+    .background_section_p {
+        font-size: 14px;
+    }
+
+    /* This is section two of home page */
+
+    .section_2 {
+        margin-top: 64px;
+        margin-bottom: 64px;
+        column-gap: 20px;
+    }
+
+    .main_pictures {
+        width: 138px;
+    }
+
+    .section2_pictures {
+        column-gap: 20px;
+    }
+
+    .section2_pictures_p {
+        font-size: 15px;
+    }
+
+    /* This is section fourth of home page */
+
+    .section4 {
+        padding: 64px 24px;
+    }
+
+    /* This is section fifth of home page */
+
+    .section5_form_input {
+        width: 200px;
+    }
+
+    .section5_button {
+        padding-inline: 7px;
+        width: 110px;
+        font-size: 14px;
+    }
+
+    /* This is section sixth of home page */
+
+    .section6 {
+        padding: 64px 24px;
+    }
+
+    .Go_to_Help_Center_button {
+        font-size: 17px;
+    }
+
+
+    /* This is background section of Artworks */
+
+    .artwork_background {
+        height: 400px;
+    }
+
+    .artwork_background_h {
+        font-size: 24px;
+        flex-wrap: nowrap;
+    }
+
+    .artwork_button {
+        width: 90px;
+        padding-inline: 10px;
+        font-size: 14px;
+    }
+
+    .artwork_form_input {
+        width: 200px;
+    }
+}
+    @media(max-width:380px) {
+
+        /* This is section one of Artworks */
+
+        .section1_Art {
+            margin-inline: 20px;
+        }
+
+        .artwork_shopping_h {
+            font-size: 13px;
+        }
+
+        .artwork_shopping_button {
+            padding: 4px;
+        }
+
+        .page_list {
+            width: 34px;
+        height: 34px;
+        }
+
+        .page_list_active {
+            width: 34px;
+        height: 34px;
+        }
+    }
