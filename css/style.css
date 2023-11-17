@@ -99,7 +99,7 @@ header {
 /* This is background section of home page */
 
 .background_section {
-    background-image: url(assets/cover_image.jpg);
+    background-image: url(assets/index\ cover.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 640px;
