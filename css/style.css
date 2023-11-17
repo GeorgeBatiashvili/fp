@@ -99,7 +99,7 @@ header {
 /* This is background section of home page */
 
 .background_section {
-    background-image: url(/assets/home_cover1.png);
+    background-image: url(../assets/home_cover1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 640px;
@@ -272,6 +272,7 @@ header {
 
 .section4 {
     padding: 160px 52px;
+    overflow-x: scroll;
 }
 
 .section4_h {
@@ -325,7 +326,7 @@ header {
 /* This is section fifth of home page */
 
 .section5 {
-    background-image: url(assets/home_cover22.png);
+    background-image: url(../assets/home_cover22.png);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -631,7 +632,7 @@ font-weight: 300;
 /* This is background section of Artworks */
 
 .artwork_background {
-    background-image: url(assets/arttt22222.png);
+    background-image: url(../assets/arttt22222.png);
     height: 560px;
     background-position: center;
     background-size: cover;
@@ -863,7 +864,7 @@ font-weight: 300;
     /* This is background section of Contact pages */
 
     .contact_background {
-        background-image: url(assets/contact2222.png);
+        background-image: url(../assets/contact2222.png);
         background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
