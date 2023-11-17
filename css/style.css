@@ -325,7 +325,7 @@ header {
 /* This is section fifth of home page */
 
 .section5 {
-    background-image: url(assets/section_5_cover.jpg);
+    background-image: url(assets/index\ cover1.png);
     display: flex;
     justify-content: center;
     align-items: center;
